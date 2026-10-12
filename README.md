@@ -1,5 +1,5 @@
 ## Hi there 👋🤗
- 🌱 I’m currently learning Business Informatics
+ 🌱 I’m currently studying Business Informatics
 <!--
 **Alenenok911/Alenenok911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
